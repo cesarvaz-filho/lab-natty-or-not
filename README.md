@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fundamentos de IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem por objetivo ensinar o básico de IA em uma escola pública que atende jovens em situação de vulnerabilidade socioeconomica.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GTP
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conectei o ChatGTP ao Canva. Solicitei a roteiração do tema Intelizência Articial e que fosse produzido o material em slide.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A partir deste projeto, pudemos ensinar os conceitos básicos de I.A e seus usos no mercado para que os jovens possam aprender o que será demandado no mercado de trabalho e como aprender essas tecnologias para não ficarem obsoletos.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O pricipal desafio é tentar definir a estilo de linguagem que vai ser utilizada pelo ChatGTP. A depender do público que conversamos, precisamos ser mais formais ou informais. Definir o tom da comunicação foi um pouco trabalhoso porque precisei detalhar o público alvo e sua características para que o texto não ficasse técnico demais e também para que os exemplos gerados estivessem de acordo com a realidade deles.
 ```
 
 ### Exemplos e Insigths
